@@ -1,0 +1,34 @@
+c:\users\gabriela\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Gabriela\Desktop\Proyecto Honduras Maya\Inicio de sesion\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Gabriela\Desktop\Proyecto Honduras Maya\Inicio de sesion\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Gabriela\Desktop\Proyecto Honduras Maya\Inicio de sesion\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Gabriela\Desktop\Proyecto Honduras Maya\Inicio de sesion\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\Desktop\Proyecto Honduras Maya\Inicio de sesion\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Gabriela\Desktop\Proyecto Honduras Maya\Inicio de sesion\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\Proyecto Honduras Maya\Inicio de sesion\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Gabriela\Desktop\Proyecto Honduras Maya\Inicio de sesion\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Gabriela\Desktop\Proyecto Honduras Maya\Inicio de sesion\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\josur\Documents\Archivos Varios\Universidad\Ingeniería de Software 1\PROYECTO\Inicio de Sesión\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\josur\Documents\Archivos Varios\Universidad\Ingeniería de Software 1\PROYECTO\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\josur\Documents\Archivos Varios\Universidad\Ingeniería de Software 1\PROYECTO\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\josur\Documents\Archivos Varios\Universidad\Ingeniería de Software 1\PROYECTO\Inicio de Sesión\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\josur\Documents\Archivos Varios\Universidad\Ingeniería de Software 1\PROYECTO\Inicio de Sesión\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\josur\Documents\Archivos Varios\Universidad\Ingeniería de Software 1\PROYECTO\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\josur\Documents\Archivos Varios\Universidad\Ingeniería de Software 1\PROYECTO\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\josur\Documents\Archivos Varios\Universidad\Ingeniería de Software 1\PROYECTO\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\josur\Documents\Archivos Varios\Universidad\Ingeniería de Software 1\PROYECTO\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Menu.resources
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.RegistroArea.resources
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Inicio.resources
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\Gabriela\Desktop\Inicio de Sesión\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
